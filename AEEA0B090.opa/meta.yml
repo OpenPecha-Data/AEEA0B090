@@ -1,0 +1,22 @@
+id: AEEA0B090
+title: Toh_267-Calling_Witness_with_a_Hundred_Prostrations-v1
+type: translation
+pechas:
+- I4A934433
+- I66CAC732
+source_metadata:
+  creationtool: 84000-translation-memory
+  creationtoolversion: 1.0.0.0
+  datatype: PlainText
+  segtype: phrase
+  adminlang: en
+  srclang: bo
+  o-tmf: TEI
+  creationdate: '2018-08-29T05:21:12.219Z'
+  creationid: kent
+  eft-text-id: UT22084-068-001
+  xmlns-eft: http://read.84000.co/ns/1.0
+  title: Toh_267-Calling_Witness_with_a_Hundred_Prostrations-v1
+alignment_to_base:
+  I4A934433/65C6: EB04
+  I66CAC732/BF7A: EB04
